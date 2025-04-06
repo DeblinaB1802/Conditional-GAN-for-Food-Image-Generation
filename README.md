@@ -87,7 +87,7 @@ During training:
 
 ## 📬 Acknowledgments
 
-- Inspired by the original cGAN paper by **Mehdi Mirza and Simon Osindero** (2014). [https://arxiv.org/abs/1411.1784](https://arxiv.org/abs/1411.1784)
+- Inspired by the original conditional GAN paper by **Mehdi Mirza and Simon Osindero** (2014). [https://arxiv.org/abs/1411.1784](https://arxiv.org/abs/1411.1784)
 - Dataset provided by ETH Zurich’s Computer Vision Lab.
 
 ---
